@@ -17,3 +17,12 @@ The basic purpose of this state diagram is to portray various changes in state o
 
 
 ![GitHub Logo](https://github.com/ChristopherRobb/OOP/blob/master/PDF/StateContract.png)
+
+
+
+## 2. Sequence Diagram
+
+This sequence diagram shows object interactions arranged in time sequence. It depicts the objects and classes involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario.
+
+
+![GitHub Logo](https://github.com/ChristopherRobb/OOP/blob/master/PDF/SequenceDiagram.png)
